@@ -19,8 +19,7 @@ In this section, describe the analysis you completed for the machine learning mo
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
-
-![model1](classification_report.png)
+![Classification Report](./credit-risk/classification_report.png)
 
 
 
