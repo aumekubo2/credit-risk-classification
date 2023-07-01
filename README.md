@@ -20,11 +20,6 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model 1:
 ![Classification Report](./credit-risk/classification_report.png)
-<<<<<<< HEAD
-=======
-
->>>>>>> 7d405208967aa466c39272be18cddb7977ec0129
-
 
 **Question:** How well does the logistic regression model predict both the `0` (healthy loan) and `1` (high-risk loan) labels?
 
@@ -39,11 +34,8 @@ In general, the model is highly efficient in predicting the healthy loans and ha
 
 
 * Machine Learning Model 2:
-<<<<<<< HEAD
+
 ![Classification Report](./credit-risk/classification_report2.png)
-=======
-![model2](classification_report.png)
->>>>>>> 7d405208967aa466c39272be18cddb7977ec0129
 
 **Question:** How well does the logistic regression model, fit with oversampled data, predict both the `0` (healthy loan) and `1` (high-risk loan) labels?
 
