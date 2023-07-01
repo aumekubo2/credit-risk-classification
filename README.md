@@ -19,7 +19,7 @@ In this section, describe the analysis you completed for the machine learning mo
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
-![Classification Report](classification_report.png)
+![Classification Report](./credit-risk/classification_report.png)
 
 
 **Question:** How well does the logistic regression model predict both the `0` (healthy loan) and `1` (high-risk loan) labels?
@@ -35,7 +35,7 @@ In general, the model is highly efficient in predicting the healthy loans and ha
 
 
 * Machine Learning Model 2:
-![Classification Report](classification_report2.png)
+![Classification Report](./credit-risk/classification_report2.png)
 
 **Question:** How well does the logistic regression model, fit with oversampled data, predict both the `0` (healthy loan) and `1` (high-risk loan) labels?
 
